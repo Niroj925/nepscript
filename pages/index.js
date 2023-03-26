@@ -17,7 +17,7 @@ function App() {
   }
   
   return (
-    <div>
+    <>
       <h2>Convert romanized text to corrosponding Nepali script </h2>
       <hr/>
       <input
@@ -63,7 +63,7 @@ function App() {
    Need help to type romanized text ?
    </Link>
        <p>Note:<i>Input text are <b>case sensitive</b></i></p>
-</div>
+</>
   );
 }
 
