@@ -1,6 +1,9 @@
 import React from 'react'
 
 function index() {
+
+
+
   return (
     <div>
       
@@ -45,9 +48,9 @@ function index() {
         "ksh":"क्ष",
         "tr":"त्र",
         "Gy":"ज्ञ"
-   
-    <h3>vowels</h3>
     <hr/>
+    <h3>vowels</h3>
+   
         "a":"अ",
         "aa":"आ",
         "i":"इ",
