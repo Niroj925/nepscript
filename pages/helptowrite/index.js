@@ -48,7 +48,9 @@ function index() {
         "ksh":"क्ष",
         "tr":"त्र",
         "Gy":"ज्ञ"
+
     <hr/>
+    
     <h3>vowels</h3>
    
         "a":"अ",
