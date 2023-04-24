@@ -30,6 +30,12 @@ function App() {
     borderRadius: '5px', 
     border: '2px solid #ccc' 
   }}
+  onKeyDown={(event) => {
+    if (event.key === 'Enter') {
+      converToNepali();
+      event.preventDefault();
+    }
+  }}
 />
 
 <button 
