@@ -25,23 +25,23 @@ function App() {
   onChange={handleChange}
   value={iv}
   style={{ 
-    fontSize: '20px', // increase font size
-    padding: '10px', // add padding
-    borderRadius: '5px', // round the edges
-    border: '2px solid #ccc' // add a border
+    fontSize: '20px', 
+    padding: '10px', 
+    borderRadius: '5px', 
+    border: '2px solid #ccc' 
   }}
 />
 
 <button 
   onClick={converToNepali}
   style={{
-    fontSize: '20px', // increase font size
-    padding: '10px', // add padding
+    fontSize: '20px', 
+    padding: '10px', 
     marginLeft:'10px',
-    borderRadius: '5px', // round the edges
-    backgroundColor: '#4CAF50', // set background color
-    color: 'white', // set text color
-    border: 'none', // remove border
+    borderRadius: '5px', 
+    backgroundColor: '#4CAF50', 
+    color: 'white', 
+    border: 'none', 
     cursor:'pointer'
   }}
 >
